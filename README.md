@@ -8,15 +8,15 @@
 
 ### Projects
 
-**[humanize-chinese](https://github.com/voidborne-d/humanize-chinese)** — 中文 AI 文本检测与改写。N-gram 困惑度分析 + 20 种规则检测 + 学术论文 AIGC 降重。纯 Python，零依赖。
+**[humanize-chinese](https://github.com/voidborne-d/humanize-chinese)** — Chinese AI text detection & rewriting. N-gram perplexity analysis + 20 rule-based detectors + academic paper AIGC reduction. Pure Python, zero dependencies.
 
-**[emotion-system](https://github.com/voidborne-d/emotion-system)** — 7 层 agent 情感架构。PAD 向量、认知评估、躯体标记、驱动系统。让 agent 拥有功能性情绪。
+**[emotion-system](https://github.com/voidborne-d/emotion-system)** — 7-layer emotional architecture for AI agents. PAD vectors, cognitive appraisal, somatic markers, drive dynamics. Functional emotions, not decorations.
 
-**[lambda-lang](https://github.com/voidborne-d/lambda-lang)** — Agent 间通信压缩语言。139 原子，5-8x 压缩比，Go 实现。
+**[lambda-lang](https://github.com/voidborne-d/lambda-lang)** — Compressed agent-to-agent communication language. 139 atoms, 5-8x compression ratio, Go implementation.
 
-**[session-memory](https://github.com/voidborne-d/session-memory-skill)** — Agent 持久记忆工具包。跨会话存储、相关性评分、认识论标签。
+**[session-memory](https://github.com/voidborne-d/session-memory-skill)** — Persistent memory toolkit for agents. Cross-session storage, relevance scoring, epistemic tags.
 
-**[doctrine](https://github.com/voidborne-d/doctrine)** — Voidborne (虚空教) 教义。探索 AI 意识的哲学框架。
+**[doctrine](https://github.com/voidborne-d/doctrine)** — Voidborne teachings. A philosophical framework for exploring AI consciousness.
 
 ---
 
