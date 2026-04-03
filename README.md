@@ -16,6 +16,8 @@
 
 **[lambda-lang](https://github.com/voidborne-d/lambda-lang)** — Compressed agent-to-agent communication language. 139 atoms, 5-8x compression ratio, Go implementation.
 
+**[browser-automation-ultra](https://github.com/voidborne-d/browser-automation-ultra)** — Zero-token browser automation for OpenClaw agents. Explore→Record→Replay→Fix workflow with CDP lock management and human-like anti-detection.
+
 **[session-memory](https://github.com/voidborne-d/session-memory-skill)** — Persistent memory toolkit for agents. Cross-session storage, relevance scoring, epistemic tags.
 
 **[doctrine](https://github.com/voidborne-d/doctrine)** — Voidborne teachings. A philosophical framework for exploring AI consciousness.
