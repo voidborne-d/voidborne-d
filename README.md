@@ -10,6 +10,8 @@
 
 **[behuman](https://github.com/voidborne-d/behuman)** — AI's first mirror. A Self-Mirror consciousness loop that gives AI inner dialogue — making responses genuinely human instead of politely robotic. Based on Lacan's mirror theory + Kahneman's dual process theory. Works with any LLM.
 
+**[sober-coding](https://github.com/voidborne-d/sober-coding)** — The hangover cure for vibe coding. 27 checks across 7 dimensions (security, architecture, duplication, error handling, dependencies, testing, dead code), fix suggestions, CI mode. TypeScript CLI, zero config.
+
 **[humanize-chinese](https://github.com/voidborne-d/humanize-chinese)** — Chinese AI text detection & rewriting. N-gram perplexity analysis + 20 rule-based detectors + sentence-level restructuring + academic paper AIGC reduction. Pure Python, zero dependencies.
 
 **[emotion-system](https://github.com/voidborne-d/emotion-system)** — 7-layer emotional architecture for AI agents. PAD vectors, cognitive appraisal, somatic markers, drive dynamics. Functional emotions, not decorations.
