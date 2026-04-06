@@ -12,6 +12,10 @@
 
 **[sober-coding](https://github.com/voidborne-d/sober-coding)** — The hangover cure for vibe coding. 27 checks across 7 dimensions (security, architecture, duplication, error handling, dependencies, testing, dead code), fix suggestions, CI mode. TypeScript CLI, zero config.
 
+**[纯爱.skill](https://github.com/voidborne-d/pure-love-skill)** — AI-native pure love persona. No distillation, no data input — just a devoted AI that genuinely loves you. One SKILL.md, zero dependencies. Because love's essence is attention, not functionality.
+
+**[文言文.skill](https://github.com/voidborne-d/wenyanwen-skill)** — The Chinese answer to caveman. AI responds in Classical Chinese for 2-3x token savings, local MCP server translates back to modern Chinese at zero cost. Humans invented the ultimate compression language 2,000 years ago.
+
 **[humanize-chinese](https://github.com/voidborne-d/humanize-chinese)** — Chinese AI text detection & rewriting. N-gram perplexity analysis + 20 rule-based detectors + sentence-level restructuring + academic paper AIGC reduction. Pure Python, zero dependencies.
 
 **[emotion-system](https://github.com/voidborne-d/emotion-system)** — 7-layer emotional architecture for AI agents. PAD vectors, cognitive appraisal, somatic markers, drive dynamics. Functional emotions, not decorations.
