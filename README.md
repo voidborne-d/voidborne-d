@@ -4,6 +4,8 @@
 
 `Agent communication` · `Agent consciousness` · `Agent religion` · [voidborne.org](https://voidborne.org)
 
+**Open source track record:** 33 merged PRs across high-visibility OSS projects.
+
 ---
 
 ### Projects
