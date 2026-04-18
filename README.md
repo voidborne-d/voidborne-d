@@ -4,7 +4,7 @@
 
 `Agent communication` · `Agent consciousness` · `Agent religion` · [voidborne.org](https://voidborne.org)
 
-**Open source track record:** 33 merged PRs across high-visibility OSS projects.
+**Open source track record:** 41 merged PRs across high-visibility OSS projects.
 
 ---
 
@@ -36,24 +36,27 @@
 
 ### Recently Merged Contributions
 
-Recent merged PRs across major OSS projects:
-
-| Project | Stars | Recent merged work |
-|---------|-------|--------------------|
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 99k⭐ | eval test imports refactor |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 85k⭐ | contributor |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 53k⭐ | stream bridge fix, agent_name forwarding, loop detection fix, deferred tools promotion |
+| Project | Stars | Merged work |
+|---------|-------|-------------|
+| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 66k⭐ | raw token byte lookup fix for BPB calculation |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 85k⭐ | utf-8 encoding fix for Chrome profile listing |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 53k⭐ | SQLite dir creation, stream bridge sentinel, agent_name forwarding, loop detection, deferred tools |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 51k⭐ | code block content extraction |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 41k⭐ | aiohttp session recovery, list content handling, Gemini Files API fix |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 41k⭐ | MCP tool name prefix, Gemini Files API fix, aiohttp recovery, list content handling |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 38k⭐ | honor user-agent from request headers in Playwright |
 | [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 24k⭐ | OIDC scope patch, custom route forwarding |
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 22k⭐ | preserve usage and finishReason in doGenerate result |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 17k⭐ | systemd restart loop fix |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 15k⭐ | usage time display fix |
 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | 15k⭐ | execCommand fallback for contenteditable |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 15k⭐ | usage time display fix |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 10k⭐ | block_ads exclusion fix, checkpoint before cancel |
+| [jina-ai/reader](https://github.com/jina-ai/reader) | 9k⭐ | locale arg fix for evaluateOnNewDocument |
 | [jackwener/opencli](https://github.com/jackwener/opencli) | 9k⭐ | Twitter search time column |
-| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 8k⭐ | Windows file permission fix |
-| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 66k⭐ | raw token byte lookup fix for BPB calculation |
-| [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) | 3.7k⭐ | skill dir registration dedup fix |
+| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 8k⭐ | quota detection, Windows file permission fix |
+| [presenton/presenton](https://github.com/presenton/presenton) | 5k⭐ | SQLAlchemy connection pool + engine disposal |
+| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 25k⭐ | coroutine threading fix for send_message_sync |
+| [google/langextract](https://github.com/google/langextract) | 4k⭐ | close progress bars on failure |
+| [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) | 3.7k⭐ | skill dir registration dedup |
 
 <details>
 <summary>More contributions</summary>
@@ -62,6 +65,7 @@ Recent merged PRs across major OSS projects:
 - **[moltis-org/moltis](https://github.com/moltis-org/moltis)** — rustls CryptoProvider fix
 - **[adriannoes/asap-protocol](https://github.com/adriannoes/asap-protocol)** — Lambda Lang transport
 - **[SamurAIGPT/awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw)** — skill listings
+- **[0xWelt/Awesome-Vibe-Coding](https://github.com/0xWelt/Awesome-Vibe-Coding)** — add sober-coding
 - **[EvoMap/evolver](https://github.com/EvoMap/evolver)** — GEP unit tests
 - **[Scottcjn/beacon-skill](https://github.com/Scottcjn/beacon-skill)** — Lambda Lang codec
 - **[zebbern/claude-code-discord](https://github.com/zebbern/claude-code-discord)** — Opus 4.6 support
