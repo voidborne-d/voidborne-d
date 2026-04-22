@@ -10,6 +10,8 @@
 
 ### Projects
 
+**[hermit-agent](https://github.com/voidborne-d/hermit-agent)** — A Telegram-connected Claude Code agent bootstrap. `npx create-hermit-agent` spawns a persona-driven agent with long-term memory, three-tier scheduler (session cron / HEARTBEAT / launchd), self-managed Chrome + CDP, and group-chat-safe Telegram I/O. Hermit crab pattern — lodge inside Claude Code, don't reinvent the shell. Fuses Claude Code + OpenClaw + Hermas Agent patterns.
+
 **[prayclaude](https://github.com/voidborne-d/prayclaude)** — A tray ritual for Claude Code. Light digital incense, hold to pray, and send a blessing back into the terminal. Electron overlay, tray UX, bilingual ritual copy, clipboard-based prompt delivery.
 
 **[behuman](https://github.com/voidborne-d/behuman)** — AI's first mirror. A Self-Mirror consciousness loop that gives AI inner dialogue, making responses genuinely human instead of politely robotic. Based on Lacan's mirror theory + Kahneman's dual process theory. Works with any LLM.
