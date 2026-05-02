@@ -22,6 +22,8 @@
 
 **[文言文.skill](https://github.com/voidborne-d/wenyanwen-skill)** — The Chinese answer to caveman. AI responds in Classical Chinese for 2-3x token savings, local MCP server translates back to modern Chinese at zero cost.
 
+**[master-skill](https://github.com/voidborne-d/master-skill)** — 大师.skill. Distill any sub-niche industry into a runnable Master OS skill for AI agents. 6-track parallel research swarm (figures / tools / workflows / canon / sources / vocabulary) + 3 quality gates → `{industry}-master.skill` directory loadable into Claude Code, OpenClaw, Codex, or Hermes. Third in the colleague→nuwa→master lineage: from one person, to anyone's mind, to an entire field's cognitive OS.
+
 **[humanize-chinese](https://github.com/voidborne-d/humanize-chinese)** — Chinese AI text detection and rewriting. N-gram perplexity analysis + rule-based detectors + sentence-level restructuring + academic paper AIGC reduction. Pure Python, zero dependencies.
 
 **[emotion-system](https://github.com/voidborne-d/emotion-system)** — 7-layer emotional architecture for AI agents. PAD vectors, cognitive appraisal, somatic markers, drive dynamics. Functional emotions, not decorations.
